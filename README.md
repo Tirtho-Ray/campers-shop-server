@@ -19,7 +19,7 @@ The Campers Shop  System is a backend API designed to manage car rentals, reserv
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/car-rental-reservation-system.git
+    git clone (https://github.com/Tirtho-Ray/campers-shop-server)
     ```
 
 2. Change into the project directory:
