@@ -24,7 +24,7 @@ The Campers Shop  System is a backend API designed to manage car rentals, reserv
 
 2. Change into the project directory:
     ```bash
-    cd car-rental-reservation-system
+    cd campers-shop-server
     ```
 
 3. Install dependencies:
